@@ -24,7 +24,7 @@ description              : "サービス企画者を目指すと練習しかな�
 url                      : "https://leejoowon97.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/logo.jpg"
+teaser                   : 
 logo                     : 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Lee Joowon"
-  avatar           : "/assets/李柱元.jpg" {: width=”120%“ height="100“} 
+  avatar           : "/assets/李柱元.jpg"
   bio              : "後悔しない言動をとる."
   location         : "Tokyo,Japan"
   email            : "imljw0428@gmail.com"
