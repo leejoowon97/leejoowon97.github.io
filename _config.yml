@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Lee Joowon"
-  avatar           : "/assets/李柱元.jpg" {: width=”100“ height="100“} 
+  avatar           : "/assets/李柱元.jpg" {: width=”120%“ height="100“} 
   bio              : "後悔しない言動をとる."
   location         : "Tokyo,Japan"
   email            : "imljw0428@gmail.com"
