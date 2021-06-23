@@ -119,6 +119,7 @@ author__avatar {
   vertical-align: top;
   width: 36px;
   height: 36px;
+  position: fixed;
 
   @include breakpoint($large) {
     display: block;
