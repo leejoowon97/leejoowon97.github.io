@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Practice"
-    url: /post/practice
+    url: /practice/
   - title: "My Life"
-    url: /post/life
+    url: /life/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
